@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Jonathas Aroucha!!! 
 
 - 🔭 Hoje trabalho com front-end React
-- 🌱 Estudando NodeJs
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="810" height="400">
+
+
+<img src="https://user-images.githubusercontent.com/77129503/195082128-9295f129-da83-4dbc-b134-6a492282dfce.gif" alt="Coder GIF" width="500" height="350"><img src="https://user-images.githubusercontent.com/77129503/195082536-dcc6a971-80ef-4ff2-b5b6-37ac07507fa2.gif" alt="Coder GIF" width="500" height="350">
 
 <div>
   <a href="https://github.com/jonathasaroucha">
